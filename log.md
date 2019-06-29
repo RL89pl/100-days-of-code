@@ -1,22 +1,13 @@
 # 100 Days Of Code - Log
 
 ### Dzień 0:  22 Stycznia 2018 (Przykład 1)
-##### (usuń to lub skomentuj)
+#### (usuń to lub skomentuj)
 
 **Dzisiejszy Progres**: Naprawiłem/am CSS, pracowałem/am nad implementacją canvasu do apki.
 
 **Przemyślenia:** Miałem/am sporo problemów z CSS, but, overall, Ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym ale udało mi się wprowadzić podstawowe funkcję.
 
 **Linki** [Kalkulator Aplikacja](http://www.example.com)
-
-### Dzień 0: 22 Stycznia 2018 (Przykład 2)
-##### (usuń to lub skomentuj)
-
-**Dzisiejszy Progres**: Naprawiłem/am CSS, pracowałem/am nad implementacją canvasu do apki.
-
-**Przemyślenia**: Miałem/am sporo problemów z CSS, but, overall, Ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym ale udało mi się wprowadzić podstawowe funkcję.
-
-**Linki**: [Kalkulator Aplikacja](http://www.example.com)
 
 
 ### Dzień 1: 22 Stycznia, Poniedziałek 
