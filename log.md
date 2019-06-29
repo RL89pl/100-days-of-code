@@ -1,30 +1,30 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Dzień 0:  22 Stycznia 2018 (Przykład 1)
+##### (usuń to lub skomentuj)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Dzisiejszy Progres**: Naprawiłem/am CSS, pracowałem/am nad implementacją canvasu do apki.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Przemyślenia:** Miałem/am sporo problemów z CSS, but, overall, Ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym ale udało mi się wprowadzić podstawowe funkcję.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Linki** [Kalkulator Aplikacja](http://www.example.com)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Dzień 0: 22 Stycznia 2018 (Przykład 2)
+##### (usuń to lub skomentuj)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Dzisiejszy Progres**: Naprawiłem/am CSS, pracowałem/am nad implementacją canvasu do apki.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Przemyślenia**: Miałem/am sporo problemów z CSS, but, overall, Ale generalnie, czuję że rozumiem coraz więcej. Canvas jest dla mnie czymś kompletnie nowym ale udało mi się wprowadzić podstawowe funkcję.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Linki**: [Kalkulator Aplikacja](http://www.example.com)
 
 
-### Day 1: June 27, Monday
+### Dzień 1: 22 Stycznia, Poniedziałek 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Dzisiejszy Progres**: Ukończyłem kilka zadań na FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Przemyślenia** Dopiero co zaczynam programowanie, uczucie ukończenia czegoś i rozwiązania problemu jest super, zwłaszcza po wielu nieudanych próbach.
 
-**Link(s) to work**
+**Linki**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
