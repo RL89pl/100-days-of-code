@@ -23,3 +23,20 @@
 **Linki:**
 1. [Tester USB](https://github.com/RL89pl/usb_test)
 2. [Etykiety](https://github.com/RL89pl/labels_rotate)
+
+
+### Dzień 2: 01 Lipca, Poniedziałek
+
+
+**Dzisiejszy Progres:** 
+1. Generator haseł
+2. Skrypt do automatycznego tworzenia adresów email dla 5000 utworzonych danych (imię, nazwisko, hasło, nazwa konta email)
+
+**Przemyślenia:** Captcha aktywuje się po kilku próbach, a po kilkunastu następuje tymczasowa blokada na IP. Potrzeba zmiennego IP, lub kilku serwisów
+
+
+### Dzień 3: 02 Lipca, Wtorek
+
+**Dzisiejszy Progres:** Modyfikacja skryptu do wysyłania zaawansowanych emaili
+
+**Przemyślenia:** Pyautogui ułatwia pracę, gdzie Selenium zawodzi
